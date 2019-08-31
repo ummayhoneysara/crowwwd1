@@ -1,0 +1,78 @@
+/* Global CSS */
+
+.btn-success{
+	color: #fff;
+	padding: 10px 30px;
+	background: #99c50a;
+	border: none;
+}
+header{
+	background-image: url("../img/header_bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bg-dark {
+    background-color: #fff !important;
+ 
+}
+.navbar-dark .navbar-nav .nav-link {
+   color: #000; 
+}
+.hero_title{
+	text-align: center;
+}
+.hero_title img{
+	padding: 0px 40px 40px 40px;
+}
+.bg_blue{
+	background-color: #e2f8ff;
+}
+.bg_yellow{
+	background-color: #f5f9eb;
+}
+.member_left{
+	width: 50%;
+	float: left;
+	padding: 50px 0px;
+
+}
+.member_right{
+	width: 50%;
+	float: left;
+	padding: 50px 0px;
+}
+button.btn.btn-light.button_member {
+    padding: 23px 60px;
+    border-radius: 10px;
+    margin: 40px;
+}
+.card_single {
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 24px;
+    border-radius: 10px;
+    position: relative;
+    width: 400px;
+}
+
+.card_img {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    width: 293px;
+}
+.card_button {
+    position: absolute;
+    top: 176px;
+    right: 18px;
+}
+.card_single h5 {
+    margin: 230px 0px 0px 0px;
+}
+.member_text_right button {
+    background-color: #add136;
+}
+
+.member_text_left button {
+    background-color: #26a6d1;
+}
